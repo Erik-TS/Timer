@@ -1,0 +1,40 @@
+body{
+  background-color: #F6FBF4;
+  margin: 0
+}
+
+h1{
+  margin: 2rem 0;
+}
+
+input{
+  background-color: #5FD068;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  font-family: monospace;
+  font-weight: 800;
+  color: white;
+  margin: 0 1rem;
+  font-size: 2rem
+}
+
+.timer-container{
+  background-color: #4B8673;
+  text-align: center;
+  padding: 2rem;
+  width: fit-content;
+  margin: 1rem auto;
+  border-radius: 1rem;
+}
+
+.timer-clock{
+  color: white;
+  font-size: 7rem;
+  font-family: 'Arial', monospace;
+}
+
+.buttons-container{
+  display: flex;
+  justify-content: center;
+}
